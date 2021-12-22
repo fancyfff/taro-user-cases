@@ -1,5 +1,12 @@
 const userCases = {
   微信小程序: [
+    {
+      name: "跑步周",
+      url: "https://raw.githubusercontent.com/fancyfff/taro-user-cases/master/qrcode.png",
+      framework: "react",
+      taroVersion: "2.2.17",
+      screenshot: []
+    },
      {
       name: "AXG网球赛事",
       url: "https://51axg.com/images/logo/gh-258.jpg",
